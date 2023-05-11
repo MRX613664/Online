@@ -4,3 +4,4 @@
 # 示例2：DOMAIN,scholar.google.com
 
 DOMAIN,translate.google.com
+DOMAIN-SUFFIX,googleapis.com
