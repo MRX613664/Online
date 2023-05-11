@@ -1,0 +1,7 @@
+# 内容：Direct Connection
+# 数量：
+# 示例1：DOMAIN-SUFFIX,baidu.com
+# 示例2：DOMAIN,www.baidu.com
+
+DOMAIN-SUFFIX,gao.cx
+
