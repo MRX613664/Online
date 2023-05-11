@@ -14,4 +14,4 @@
 # 示例2：DOMAIN,www.baidu.com
 
 DOMAIN-SUFFIX,gao.cx
-IP-CIDR,193.122.114.10/32,no-resolve
+IP-CIDR,193.122.114.10/32
