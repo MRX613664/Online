@@ -1,0 +1,6 @@
+# 内容：Proxy Connection
+# 数量：
+# 示例1：DOMAIN-SUFFIX,google.com
+# 示例2：DOMAIN,scholar.google.com
+
+DOMAIN,translate.google.com
